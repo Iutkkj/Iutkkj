@@ -1,5 +1,3 @@
-- ⭐ Olá, Eu sou o Iut
-<!---
-Iutkkj/Iutkkj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### ⭐ Olá, Eu sou o Iut
+
+* 🪐 JavaScript student
