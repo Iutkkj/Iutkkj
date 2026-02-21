@@ -48,7 +48,10 @@ Here are some of my real projects:
 ## 📊 Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iutkkj&layout=compact&theme=tokyonight&hide_border=true" />
+  <img 
+    height="150"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iutkkj&layout=compact&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 ---
@@ -56,9 +59,3 @@ Here are some of my real projects:
 ## 📫 Contact
 
 - Discord: yiutt
-
----
-
-<p align="center">
-  Foco.
-</p>
