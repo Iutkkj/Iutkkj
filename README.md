@@ -17,10 +17,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Iutkkj&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
 ## 🧰 Technologies
 
 <p align="center">
@@ -64,5 +60,5 @@ Here are some of my real projects:
 ---
 
 <p align="center">
-  Focused on growth and consistency.
+  Foco.
 </p>
