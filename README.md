@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Iut 👋</h1>
+<h1 align="center">Iut</h1>
 
 <p align="center">
-  Discord Bot Developer focused on learning and building efficient applications.
+  Discord Bot Developer • Python • Learning JavaScript
 </p>
 
 ---
@@ -9,54 +9,60 @@
 ## 👨‍💻 About me
 
 - 🎓 Student from Bahia, Brazil  
-- 🤖 Focused on Discord bot development  
-- 🐍 Python developer (Basic → Intermediate)  
+- 🤖 Specialized in Discord bot development  
+- 🐍 Python developer with real project experience  
 - ⚡ Currently learning JavaScript and discord.js  
-- 🧠 Programming for about 5 months  
-- 📚 Always improving and learning new technologies  
+- 🧠 Focused on improving code quality and architecture  
+- 📈 Building projects to evolve every day  
 
 ---
 
-## 🚀 Technologies
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Iutkkj&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,mongodb,nodejs,git,github" />
+## 🧰 Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,nodejs,mongodb,git,github,vscode" />
 </p>
 
 ---
 
-## 📦 Main Projects
+## 📦 Projects
 
-- 🤖 Discord registration bot using **discord.py**
-- 🌐 API request system using **Python**
-- 📚 Node.js project following "node-do-zero"
-- ⚙️ Discord bots using **MongoDB**
+Here are some of my real projects:
+
+- 🤖 Discord bot using **discord.py**
+- 🌐 API project using **Python**
+- ⚙️ Discord bots with **MongoDB integration**
+- 📚 JavaScript project from node-do-zero (learning backend fundamentals)
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently learning
 
 - JavaScript
 - discord.js
-- Better database structure
-- Advanced bot systems
+- Database structure and optimization
+- Writing cleaner and scalable code
 
 ---
 
-## 📊 Most Used Languages
+## 📊 Languages
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iutkkj&layout=compact&theme=transparent" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iutkkj&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 📫 Contact
 
-- Discord: **yiutt**
+- Discord: yiutt
 
 ---
 
 <p align="center">
-  Focused on evolution. One step at a time.
+  Focused on growth and consistency.
 </p>
